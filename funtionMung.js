@@ -1,1 +1,1 @@
-console.log("ahihi");
+console.log("ahihi đồ ngốk");
