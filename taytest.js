@@ -5,6 +5,3 @@ console.log("ahihi");
 console.log("ahihi");
 console.log("ahihi");
 console.log("ahihi");
-
-
-console.log("ahihi hahaha");
